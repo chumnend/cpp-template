@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10.2)
+cmake_minimum_required(VERSION 3.0.0)
 project (project-name)
 
 # Bring in headers and source files

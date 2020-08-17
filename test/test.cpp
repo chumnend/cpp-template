@@ -4,5 +4,5 @@
 
 BOOST_AUTO_TEST_CASE(sample_test)
 {
-    BOOST_CHECK(1 == 1);
+  BOOST_CHECK(1 == 1);
 }
