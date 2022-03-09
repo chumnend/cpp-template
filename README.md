@@ -1,5 +1,5 @@
 # cpp Template
-A template for cpp projects, uses CMake and Boost.test
+A template for c++ projects using CMake and Boost.test
 
 # Development Setup
 
